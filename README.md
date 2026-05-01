@@ -62,7 +62,12 @@ Unityで制作したカジュアルゲームです。
 - タイトル画面
 <img src="images/sukusyo001.jpg" width="400" alt="タイトル画面">
 - ゲームプレイ画面
+<img src="images/sukusyo003.jpg" width="400" alt="タイトル画面">
+- カットイン表示画面
+<img src="images/sukusyo005.jpg" width="400" alt="タイトル画面">
 - リザルト画面
+<img src="images/sukusyo006.jpg" width="400" alt="タイトル画面">
+
 
 ---
 
