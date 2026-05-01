@@ -59,8 +59,8 @@ Unityで制作したカジュアルゲームです。
 ---
 
 ## 📷 スクリーンショット
-![タイトル画面]<img src="images/sukusyo001.jpg" width="600" alt="タイトル画面">
 - タイトル画面
+<img src="images/sukusyo001.jpg" width="400" alt="タイトル画面">
 - ゲームプレイ画面
 - リザルト画面
 
