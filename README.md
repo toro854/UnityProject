@@ -1,4 +1,4 @@
-# Perfect Hit（プロトタイプ版）
+# Perfect Hit
 
 ## 🎮 概要
 Unityで制作したカジュアルゲームです。  
